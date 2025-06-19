@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <header><h1>my port foilo web page </h1>
+    
+        <nav> </nav>
+    </header>
+ <tile>my portfolio </tile>
+</head>
+<body>
+
+
+
+
+
+   
+    <h1>welcome to my portfolio  </h1>
+    
+     
+<a h
+ref=""><button>about</button></a>
+<a href=""><button>skills</button></a>
+<a href=""><button> contact</button></a>
+  
+
+<main>
+
+<section id="about">
+    <h1>About me</h1>
+    <p>My name is <strong>sakshith netha</strong></p>
+    <p>I am a student of <strong>Masab Tank Polytechnic</strong></p>
+    <p>I am learning web development and programming languages.</p>
+    <p>I am passionate about coding and technology.</p> </section>
+   <section>
+    <p>I was studing ina potecchinic branch of masab tank </p>
+    <P>i was so intersed in the course of css </P>
+    <p> Iam a perfect student and a best coder</p>
+    </section>
+
+    <section id="my skills">
+    
+    
+    <h1>My Skills</h1>
+   <table><ol>  
+         <li>   python basic</li>
+            <li>HTML basic </li>
+            <li>CSS basic<li> 
+             <li>JS basic</li>  
+    </li></ol>
+    </table>
+    </section>
+
+<section id="contact me">
+
+    <h1>contact me</h1>
+<p> feel to free to get touch with me</p>
+       <form action="">
+
+        <label for="name">Name:</label>
+        <input type="text" ><br> <br>
+          
+        <label for="email">Email:</label>
+        <input type="text"> <br> <br>
+
+     <b>choose your gender</b>
+     <input type="radio" id="male">
+        <label for="male">male</label>
+     <input type="radio" id="female">
+       <label for="female">female</label>
+     <br>    
+
+
+      <strong>choose your intrest:</strong>  
+      <input type="checkbox" id="coding">
+        <label for ="coding">coding</label>
+        <input type="checkbox"  id=" reading"></input>
+        <label for="reading">reading</label> 
+        <br>
+
+        <label for="bio">bio(up too 200 charecters):</label>
+        <input type="text" id=" message">
+        <br> <br>
+        <button>submit</button>
+       </form> 
+       </section>
+            <img src="bmw.jpg" alt=""img width=400 height=200
+            > <br> <br>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Tf_zJOW-hOo?si=dPlQjXTDXzbjzlLB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"
+            <br> <br>
+            </main>
+       
+         <section>
+        
+        </section>
+
+
+</body> 
+</html>
